@@ -9,6 +9,8 @@ This sample has now been updated for Tensorflow 1.1. Please make sure you redown
 
 ## Usage:
 
+Download the data from : https://drive.google.com/uc?id=0B5njS_LX6IsDc2lWTmtyanRpOHc&export=download
+
 ```
 > python3 rnn_train.py
 ```
